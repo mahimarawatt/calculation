@@ -1,0 +1,11 @@
+1. https://builtin.com/data-science/data-science-projects
+2. https://www.hackerearth.com/challenges/
+3. https://www.hackerrank.com/interview/preparation-kits/one-week-preparation-kit/one-week-day-one/challenges
+4. https://www.codecademy.com/learn/learn-python-3
+5. https://classroom.google.com/u/0/c/NTQ4NzY2NzIzNjYw
+6. https://app.dataquest.io/dashboard
+7. https://pynative.com/python/quizzes/
+8.https://github.com/guipsamora/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Chipotle
+9. https://learn.skillvertex.in/members-directory/mahimarawat22gmail-com/course/#component=dashboard
+
+
